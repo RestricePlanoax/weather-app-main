@@ -4,14 +4,6 @@
 
 In this Next.js project, a weather app is developed with Tailwind CSS and Open-Meteo APIs for weather and search related data. It includes current, daily, and hourly weather data (temperature, high/low, feels-like, wind, precip) sourced from the open-meteo API. The app detects the user's city automatically through browser geolocation and allows manual city search.
 
-## Demo
-![Screenshot](public/images/snapshot-1.png)
-<p float="left" align="center">
-  <img src="public/images/snapshot-2.png" width="400" />
-  <img src="public/images/snapshot-3.png" width="400" />
-</p>
-
-## Getting Started
 
 First, run the development server:
 
